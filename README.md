@@ -1,7 +1,7 @@
 ## Hello, everybody! :wink:
 
 - :mortar_board: Estudante de Desenvolvimento de Sistemas - ETEC Registro  
-- :computer: Graduado em Análise e Desenvolvimento de Sistemas
+- :computer: Graduando-se em Análise e Desenvolvimento de Sistemas
 - :hammer_and_wrench: Técnico em Informática
 <hr>
 <a href="https://github.com/CarlosHanzawa/CarlosHanzawa">
